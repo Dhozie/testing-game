@@ -1,0 +1,8 @@
+{
+  "leaderboard": {
+    "stats": [
+      { "key": "height", "label": "Max Height (m)", "order": "highest" },
+      { "key": "gems", "label": "Gems Collected", "order": "highest" }
+    ]
+  }
+}
